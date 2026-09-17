@@ -4,8 +4,9 @@
 
 ## 📲 手机上怎么下载
 
-**最省事（推荐）**：看下面的「**固定直链**」表，把那行链接**收藏 / 加到手机桌面**。
-链接永远不变，每次出新版本我都会把最新包覆盖到那个地址 —— 点开就是最新版。
+**最省事（推荐）**：看下面的「**固定直链**」表，点 **⚡加速下载**（校园网/国内网络快很多），
+或者把「原链」收藏 / 加到手机桌面。链接永远不变，每次出新版本我都会把最新包覆盖到那个地址
+—— 点开就是最新版。原链下不动就换加速那个，反过来也一样。
 
 **或者**：看「版本记录」表，点「下载」列（新版本排最上面）。
 也可以点仓库下方的 **Releases（发布）** → 点进去 → 点 `.apk` 文件名。
@@ -27,8 +28,7 @@
 
 <!-- LATEST-START -->
 
-| 应用 | 当前版本 | 收藏这个链接（永远指向最新版） |
+| 应用 | 当前版本 | 收藏这个（永远指向最新版） |
 | --- | --- | --- |
-| 秒码 QuickCode | **1.3** | https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk |
-| 词拍 WordSnap | **1.2** | https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk |
+| 词拍 WordSnap | **1.2** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) |
 

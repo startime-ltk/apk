@@ -24,6 +24,7 @@
 | 应用 | 版本 | 大小 | 更新日期 | 下载 |
 | --- | --- | --- | --- | --- |
 | 秒码 QuickCode | **1.3** | 0.02 MB | 2026-09-17 | [下载](https://github.com/startime-ltk/apk/releases/download/quickcode-v1.3/QuickCode-v1.3.apk) |
+| 词拍 WordSnap | **1.3** | 14.92 MB | 2026-09-17 | [下载](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.3/WordSnap-v1.3.apk) |
 | 词拍 WordSnap | **1.2** | 14.92 MB | 2026-09-17 | [下载](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.2/WordSnap-v1.2.apk) |
 
 <!-- LATEST-START -->
@@ -31,5 +32,5 @@
 | 应用 | 当前版本 | 收藏这个（永远指向最新版） |
 | --- | --- | --- |
 | 秒码 QuickCode | **1.3** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk) |
-| 词拍 WordSnap | **1.2** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) |
+| 词拍 WordSnap | **1.3** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) |
 

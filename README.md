@@ -30,5 +30,6 @@
 
 | 应用 | 当前版本 | 收藏这个（永远指向最新版） |
 | --- | --- | --- |
+| 秒码 QuickCode | **1.3** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk) |
 | 词拍 WordSnap | **1.2** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) |
 

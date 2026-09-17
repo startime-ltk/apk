@@ -14,5 +14,6 @@
 
 | 应用 | 版本 | 大小 | 更新时间 | 下载 |
 | --- | --- | --- | --- | --- |
+| 词拍 WordSnap | `1.2` | 14.92 MB | 2026-09-17 | [**下载**](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.2/Wordsnap-1.2.apk) |
 
 <!-- APK-INDEX-END -->

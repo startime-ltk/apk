@@ -12,5 +12,12 @@
     "url": "https://github.com/startime-ltk/apk/releases/download/leave-latest/LeaveApply-latest.apk",
     "date": "2026-10-21",
     "size": "0.07 MB"
+  },
+  "mimavault-android": {
+    "name": "密匣 MimaVault 安卓",
+    "version": "A8.31.3",
+    "url": "https://github.com/startime-ltk/apk/releases/download/mimavault-android-latest/MimaVault-latest.apk",
+    "date": "2026-11-06",
+    "size": "5.23 MB"
   }
 }

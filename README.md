@@ -26,6 +26,7 @@
 | 今日校园请假复刻 | **1.7.7** | 0.07 MB | 2026-10-21 | [下载](https://github.com/startime-ltk/apk/releases/download/leave-v1.7.7/LeaveApply-v1.7.7.apk) |
 | 今日校园请假复刻 | **1.7.6** | 0.07 MB | 2026-10-21 | [下载](https://github.com/startime-ltk/apk/releases/download/leave-v1.7.6/LeaveApply-v1.7.6.apk) |
 | 今日校园请假复刻 | **1.7.5** | 0.07 MB | 2026-10-21 | [下载](https://github.com/startime-ltk/apk/releases/download/leave-v1.7.5/LeaveApply-v1.7.5.apk) |
+| 密匣 MimaVault 安卓 | **A8.31.3** | 5.23 MB | 2026-11-06 | [下载](https://github.com/startime-ltk/apk/releases/download/mimavault-android-vA8.31.3/MimaVault-vA8.31.3.apk) |
 | 秒码 QuickCode | **1.3** | 0.02 MB | 2026-09-17 | [下载](https://github.com/startime-ltk/apk/releases/download/quickcode-v1.3/QuickCode-v1.3.apk) |
 | 词拍 WordSnap | **1.3** | 14.92 MB | 2026-09-17 | [下载](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.3/WordSnap-v1.3.apk) |
 | 词拍 WordSnap | **1.2** | 14.92 MB | 2026-09-17 | [下载](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.2/WordSnap-v1.2.apk) |
@@ -35,6 +36,7 @@
 | 应用 | 当前版本 | 收藏这个（永远指向最新版） |
 | --- | --- | --- |
 | 今日校园请假复刻 | **1.7.7** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/leave-latest/LeaveApply-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/leave-latest/LeaveApply-latest.apk) |
+| 密匣 MimaVault 安卓 | **A8.31.3** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/mimavault-android-latest/MimaVault-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/mimavault-android-latest/MimaVault-latest.apk) |
 | 秒码 QuickCode | **1.3** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/quickcode-latest/QuickCode-latest.apk) |
 | 词拍 WordSnap | **1.3** | [⚡加速下载](https://ghfast.top/https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) · [原链](https://github.com/startime-ltk/apk/releases/download/wordsnap-latest/WordSnap-latest.apk) |
 

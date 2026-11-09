@@ -24,7 +24,7 @@
 | 今日校园请假复刻 | **1.7.6** | 0.07 MB | 2026-10-21 | [LeaveApply-v1.7.6.apk](https://github.com/startime-ltk/apk/releases/download/leave-v1.7.6/LeaveApply-v1.7.6.apk) |
 | 今日校园请假复刻 | **1.7.5** | 0.07 MB | 2026-10-21 | [LeaveApply-v1.7.5.apk](https://github.com/startime-ltk/apk/releases/download/leave-v1.7.5/LeaveApply-v1.7.5.apk) |
 | 词拍 WordSnap | **1.3** | 14.92 MB | 2026-09-17 | [WordSnap-v1.3.apk](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.3/WordSnap-v1.3.apk) |
-| 词拍 WordSnap | **1.2** | 14.92 MB | 2026-09-17 | [Wordsnap-1.2.apk](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.2/Wordsnap-1.2.apk) |
+| 词拍 WordSnap | **1.2** | 14.92 MB | 2026-09-17 | [WordSnap-v1.2.apk](https://github.com/startime-ltk/apk/releases/download/wordsnap-v1.2/WordSnap-v1.2.apk) |
 | 秒码 QuickCode | **1.3** | 0.02 MB | 2026-09-17 | [QuickCode-v1.3.apk](https://github.com/startime-ltk/apk/releases/download/quickcode-v1.3/QuickCode-v1.3.apk) |
 
 > 糖伴 SugarPal 安卓的历史版本发布在 [SugarPal-Android Releases](https://github.com/startime-ltk/SugarPal-Android/releases)，当前为 **v1.2.10**（versionCode 13）。
